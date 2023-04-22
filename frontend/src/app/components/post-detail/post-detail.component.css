@@ -1,0 +1,26 @@
+body {
+    background-color: #FFAE42;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .post {
+    margin: auto;
+    max-width: 700px;
+    padding: 40px;
+  }
+  
+  .post-title {
+    margin-top: 0;
+  }
+  
+  .post-meta {
+    margin-bottom: 20px;
+  }
+  
+  .post-body {
+    margin-top: 40px;
+  }
+  

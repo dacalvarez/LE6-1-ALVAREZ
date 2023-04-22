@@ -1,0 +1,45 @@
+body {
+    background-image: linear-gradient(to bottom right, #FF7F50, #FFD700, #FF6347);
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+h1 {
+    font-weight: bold;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.post {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.post h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.post p {
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #999;
+}
+
+.post a {
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+}
+
+.post a:hover {
+    color: #0056b3;
+}
